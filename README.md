@@ -1,1 +1,1 @@
-# pico-projects
+# micro-projects
