@@ -1,5 +1,7 @@
 **/pycache
 **/venv
-arduino/libraries
 **/.DS_Store
 **/*.code-workspace
+
+arduino/libraries
+arduino/generated_examples
