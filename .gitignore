@@ -1,3 +1,4 @@
 **/pycache
 **/venv
 arduino/libraries
+**/.DS_Store
