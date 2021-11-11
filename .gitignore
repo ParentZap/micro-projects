@@ -2,3 +2,4 @@
 **/venv
 arduino/libraries
 **/.DS_Store
+**/*.code-workspace
